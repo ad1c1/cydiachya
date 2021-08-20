@@ -1,0 +1,1 @@
+:sout=#transcode{vcodec=none,acodec=vorb,ab=128,channels=2,samplerate=44100,scodec=none}:duplicate{dst=http{mux=ogg,dst=:8080/liq},dst=display} :sout-all :sout-keep
