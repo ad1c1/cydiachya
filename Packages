@@ -1,0 +1,15 @@
+Package: com.hackyouriphone.localiapstore
+Version: 0.0.2
+Section: Tweaks
+Maintainer: kurd <kurd@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package 15
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+
